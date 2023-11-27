@@ -57,7 +57,7 @@ Our publications could be found in [Prof. Zhou Wu's Google Scholar](https://scho
 
 - [Building Energy Dataset](./Datasets/Building-Energy)
 
-- [Building Energy Dataset](./Datasets/Building-Energy) (Waiting to update)
+- [Building Energy Dataset](./Datasets/Building-Design) (Waiting to update)
 
 ### Environment
 
