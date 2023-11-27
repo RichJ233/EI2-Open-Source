@@ -53,11 +53,11 @@ Our publications could be found in [Prof. Zhou Wu's Google Scholar](https://scho
 
 ### Datasets
 
-- [Time-series Dataset](./Datasets/Time-series)
+- [Time-series Dataset](./Datasets/NCAA2022 Dataset)
 
-- [Building-Energy Dataset](./Datasets/Building Energy) (Waiting to update)
+- [Building-Energy Dataset](./Datasets/Building Energy)
 
-- [Building Design Dataset](./Datasets/Building Design)
+- [Building Design Dataset](./Datasets/Building Design) (Waiting to update)
 
 ### Environment
 
