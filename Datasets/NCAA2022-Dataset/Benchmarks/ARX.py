@@ -1,6 +1,6 @@
 #################################
 # Name: ARX.py
-# Function: Class of autoregressive model with an exogenous input model
+# Function: Class of autoregressive with an exogenous input prediction model
 # Author: Shaoxiong Zeng
 # Date: 02/03/2024
 # Environment:  Python - 3.11.5
