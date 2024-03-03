@@ -4,8 +4,8 @@ This open source is contributed by EI2, ***the Energy Informatics and Intelligen
 
 ## Brief introduction of EI2 Team
 
-EI2 Team is from Chongqing university. 
-The team is directed by [Prof. Zhou Wu](http://accu.cqu.edu.cn/info/1249/4983.htm), from Automation college of Chongqing University .
+EI2 Team is from Chongqing University. 
+The team is directed by [Prof. Zhou Wu](http://accu.cqu.edu.cn/info/1249/4983.htm), from Automation college of Chongqing University.
 
 Our research interests focus on 
 
@@ -17,7 +17,7 @@ Our research interests focus on
 
 - Smart buildings & Construction. 
 
-Our publications could be found in [Prof. Zhou Wu's Google Scholar](https://scholar.google.com.hk/citations?user=ckK46o4AAAAJ&hl=en).
+Our publications can be found in [Prof. Zhou Wu's Google Scholar](https://scholar.google.com.hk/citations?user=ckK46o4AAAAJ&hl=en).
 
 ## Includes
 
@@ -37,6 +37,10 @@ Our publications could be found in [Prof. Zhou Wu's Google Scholar](https://scho
     │	├─Building Energy
     │	│
     │	└─NCAA2022 Datasets
+    │		|
+    │		├─Benchmarks
+    │		|
+    │		└─Data
     │
     ├─LICENSE
     │
@@ -69,7 +73,8 @@ Our publications could be found in [Prof. Zhou Wu's Google Scholar](https://scho
 
 - It's delighted to be used in academic research, and please follow the [MIT license](./LICENSE). If any business requires, please contact zhouwu@cqu.edu.cn.
 
-- Citations are detailed in each usb-floder.
+- Citations are detailed in each sub-folder.
 
-- Last updated on Nov/27/2023 by Ruiqi Jiang.# EI2-Open-Source
+- Last updated on Mar/1/2024 by Ruiqi Jiang.# EI2-Open-Source
+
 # EI2-Open-Source
