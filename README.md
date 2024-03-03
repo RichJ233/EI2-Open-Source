@@ -1,11 +1,11 @@
 # EI2 Open-source
 
-This open source is contributed by EI2, ***the Energy Informatics and Intelligence***.
+EI2, ***the Energy Informatics and Intelligence*** contribute to this open source.
 
 ## Brief introduction of EI2 Team
 
-EI2 Team is from Chongqing University. 
-The team is directed by [Prof. Zhou Wu](http://accu.cqu.edu.cn/info/1249/4983.htm), from Automation college of Chongqing University.
+The EI2 Team is from Chongqing University. 
+The team is directed by [Prof. Zhou Wu](http://accu.cqu.edu.cn/info/1249/4983.htm), from Automation College of Chongqing University.
 
 Our research interests focus on 
 
@@ -23,7 +23,7 @@ Our publications can be found in [Prof. Zhou Wu's Google Scholar](https://schola
 
     │
     ├─Algorithms
-    │    │
+    │  │
     │  ├─CESN
     │  │
     │  ├─DCESN (Waiting to update)
@@ -65,7 +65,7 @@ Our publications can be found in [Prof. Zhou Wu's Google Scholar](https://schola
 
 ### Environment
 
-- All the algorithms are built in python, and the supportment of ***Numpy*** package is essential.
+- All the algorithms are built in Python, and the support of the ***Numpy*** package is essential.
 
 - For datasets, all are in .csv format.
 
@@ -75,6 +75,6 @@ Our publications can be found in [Prof. Zhou Wu's Google Scholar](https://schola
 
 - Citations are detailed in each sub-folder.
 
-- Last updated on Mar/1/2024 by Ruiqi Jiang.# EI2-Open-Source
+- The last update was on Mar/1/2024 by Ruiqi Jiang.
 
 # EI2-Open-Source
