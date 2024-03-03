@@ -75,6 +75,6 @@ Our publications can be found in [Prof. Zhou Wu's Google Scholar](https://schola
 
 - Citations are detailed in each sub-folder.
 
-- The last update was on Mar/1/2024 by Ruiqi Jiang.
+- The last update was on Mar/1/2024 by [Ruiqi Jiang](https://richj233.github.io/).
 
 # EI2-Open-Source
