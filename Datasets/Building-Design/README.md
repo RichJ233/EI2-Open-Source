@@ -21,10 +21,10 @@ This dataset is collected from different online platforms, and pre-processed by 
 
 ## The Examples
 
-The sketches and drawings
+### The sketches and drawings
 ![image](design_sketches_and_design_drawings.png)
 
-The label
+### The label
 ![image](Label_image.png)
 
 ## Citation
