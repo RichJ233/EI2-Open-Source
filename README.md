@@ -1,10 +1,12 @@
 # EI2 Open-source
 
-- The repository is collected and contributed by [Ruiqi Jiang](https://richj233.github.io/) from HKU on AUG/5/2024. For any inquiries, please to: ruiqijiang@foxmail.com.
+- The repository is collected and contributed by [Ruiqi Jiang](https://richj233.github.io/) from ***HKU***. For any inquiries, please to: ruiqijiang@foxmail.com.
+
+- Last updated on Aug/5/2024.
 
 ## Brief introduction of EI2 Research Team
 
-EI2， ***the Energy Informatics and Intelligence***， is from the School of Automation, Chongqing University (ACCU), and directed by Prof. Zhou Wu.
+EI2, ***the Energy Informatics and Intelligence***, is from the School of Automation, Chongqing University (ACCU), and directed by Prof. Zhou Wu.
 
 The EI2 research interests focus on 
 
