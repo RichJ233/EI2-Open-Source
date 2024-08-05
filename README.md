@@ -1,6 +1,6 @@
 # EI2 Open-source
 
-- The repository is collected and contributed by [Ruiqi Jiang](https://richj233.github.io/) from ***HKU***. For any inquiries, please to: ruiqijiang@foxmail.com.
+- The repository is collected and contributed by [Ruiqi Jiang](https://richj233.github.io/). For any inquiries, please to: ruiqijiang@foxmail.com.
 
 - Latest updated on Aug/5/2024.
 
