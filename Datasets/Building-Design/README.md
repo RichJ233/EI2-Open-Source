@@ -1,7 +1,31 @@
 # Building Design Dataset
 
-This dataset is collected from different online platform, and washed by Xiaolong Jia.
-The data will be updated in the future.
+This dataset is collected from different online platforms, and pre-processed by Xiaolong Jia.
+
+
+    │
+    ├─Layout(Sketch2Layout)
+    │  │
+    │  ├─Layout
+    │  │
+    │  └─Sketch
+    │
+    ├─Style(Layout2Design)
+    │	│
+    │	├─Layout
+    │	│
+    │	└─Sketch
+    │
+    └─README.md
+
+
+## The Examples
+
+The sketches and drawings
+![Sketch and drawing](design sketches and design drawings.png)
+
+The label
+![Label](Label image.png)
 
 ## Citation
 Paper considered citing: 

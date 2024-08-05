@@ -33,7 +33,7 @@
 ##############################################################
 ###
 import numpy as np
-from ESN_C import ESN
+from ESN import ESN
 
 
 class ChainESN:

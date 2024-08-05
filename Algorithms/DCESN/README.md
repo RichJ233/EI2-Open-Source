@@ -1,8 +1,6 @@
-# DESN
+# DCESN
 
-Python Document will be updated in the future.
-
-![image](DESN.png)
+![image](DCESN.png)
 
 ## Environment
 

@@ -1,23 +1,20 @@
 # EI2 Open-source
 
-EI2, ***the Energy Informatics and Intelligence*** contribute to this open source.
+EI2, ***the Energy Informatics and Intelligence*** contributes to this open source.
 
-## Brief introduction of EI2 Team
+## Brief introduction of EI2 Research Team
 
-The EI2 Team is from Chongqing University. 
-The team is directed by [Prof. Zhou Wu](http://accu.cqu.edu.cn/info/1249/4983.htm), from Automation College of Chongqing University.
+The EI2 is from the School of Automation, Chongqing University (ACCU), and directed by Prof. Zhou Wu.
 
-Our research interests focus on 
+The EI2 research interests focus on 
 
-- Optimization, 
+- Optimization,
 
-- Artificial intelligence, 
+- Artificial intelligence,
 
-- Smart grid, 
+- Smart grid,
 
-- Smart buildings & Construction. 
-
-Our publications can be found in [Prof. Zhou Wu's Google Scholar](https://scholar.google.com.hk/citations?user=ckK46o4AAAAJ&hl=en).
+- Smart buildings & Construction.
 
 ## Includes
 
@@ -26,13 +23,17 @@ Our publications can be found in [Prof. Zhou Wu's Google Scholar](https://schola
     │  │
     │  ├─CESN
     │  │
-    │  ├─DCESN (Waiting to update)
+    │  ├─DCESN
     │  │
     │  └─ESN
     │
     ├─Datasets
     │	│
-    │	├─Building Design (Waiting to update)
+    │	├─Building Design
+    │	│	|
+    │	│	├─Layout(Sketch2Layout)
+    │	│	|
+    │	│	└─Style(Layout2Design)
     │	│	
     │	├─Building Energy
     │	│
@@ -53,7 +54,7 @@ Our publications can be found in [Prof. Zhou Wu's Google Scholar](https://schola
 
 - [CESN](./Algorithms/CESN)
 
-- [DCESN](./Algorithms/DCESN) (Waiting to update)
+- [DCESN](./Algorithms/DCESN)
 
 ### Datasets
 
@@ -61,20 +62,20 @@ Our publications can be found in [Prof. Zhou Wu's Google Scholar](https://schola
 
 - [Building Energy Dataset](./Datasets/Building-Energy)
 
-- [Building Design Dataset](./Datasets/Building-Design) (Waiting to update)
+- [Building Design Dataset](./Datasets/Building-Design) 
 
 ### Environment
 
-- All the algorithms are built in Python, and the support of the ***Numpy*** package is essential.
+- All the algorithms are built with Python, and with the pack of the ***Numpy***.
 
-- For datasets, all are in .csv format.
+- Datasets are in .csv (time-series) or .png (Design) format.
 
 ## Acknowledgements
 
-- It's delighted to be used in academic research, and please follow the [MIT license](./LICENSE). If any business requires, please contact zhouwu@cqu.edu.cn.
+- It's delighted to be used in academic research, and please follow the [MIT license](./LICENSE). If any business requires, please contact Prof. Zhou Wu.
 
 - Citations are detailed in each sub-folder.
 
-- The last update was on Mar/1/2024 by [Ruiqi Jiang](https://richj233.github.io/).
+- It is contributed by [Ruiqi Jiang](https://richj233.github.io/) from HKU on AUG/5/2024. Any inquiries to: ruiqijiang@foxmail.com.
 
 # EI2-Open-Source
