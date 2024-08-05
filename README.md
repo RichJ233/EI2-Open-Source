@@ -2,7 +2,7 @@
 
 - The repository is collected and contributed by [Ruiqi Jiang](https://richj233.github.io/) from ***HKU***. For any inquiries, please to: ruiqijiang@foxmail.com.
 
-- Last updated on Aug/5/2024.
+- Latest updated on Aug/5/2024.
 
 ## Brief introduction of EI2 Research Team
 
