@@ -22,13 +22,14 @@ This dataset is collected from different online platforms, and pre-processed by 
 ## The Examples
 
 The sketches and drawings
-![Sketch and drawing](design sketches and design drawings.png)
+![image](design_sketches_and_design_drawings.png)
 
 The label
-![Label](Label image.png)
+![image](Label_image.png)
 
 ## Citation
 Paper considered citing: 
+[A Multi-style Interior Floor Plan Design Approach Based on Generative Adversarial Networks](https://link.springer.com/chapter/10.1007/978-981-99-5844-3_36)
 ```
 @inproceedings{jia2023multi,
   title={A Multi-style Interior Floor Plan Design Approach Based on Generative Adversarial Networks},

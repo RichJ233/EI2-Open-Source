@@ -76,6 +76,6 @@ The EI2 research interests focus on
 
 - Citations are detailed in each sub-folder.
 
-- It is contributed by [Ruiqi Jiang](https://richj233.github.io/) from HKU on AUG/5/2024. Any inquiries to: ruiqijiang@foxmail.com.
+- It is collected and contributed by [Ruiqi Jiang](https://richj233.github.io/) from HKU on AUG/5/2024. Any inquiries to: ruiqijiang@foxmail.com.
 
 # EI2-Open-Source
